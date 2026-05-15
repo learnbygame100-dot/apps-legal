@@ -13,7 +13,7 @@ apps-legal/
 
 ## Apps
 
-- **grammar-app** — Grammar Fun (English grammar learning app for kids)
+- **grammar-app** — Learn Imla (English grammar learning app for kids)
 
 ## Hosting
 
