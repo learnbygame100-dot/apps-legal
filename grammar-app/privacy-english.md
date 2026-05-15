@@ -17,6 +17,7 @@ Learn Imla is operated by Avner Avigad.
 - Display name or username entered at login
 - Phone number — used for account verification only (see "Phone number & SMS verification" below)
 - Learning progress: topics studied, scores, exam results
+- Device notification token — only if you grant notification permission (see "Notifications" below)
 
 We do not collect email addresses or payment details directly.
 
@@ -64,6 +65,19 @@ We collect your phone number to verify your account and to log you in. When you 
 - **Sharing:** your phone number is **not** shared with any third party for marketing or any other purpose.
 - **US users (TCPA):** SMS verification is opt-in. You explicitly consent by ticking the consent checkbox at signup. Standard message and data rates may apply.
 - **How to remove:** delete your account (or contact us at learnbygame100@gmail.com). Your phone number is permanently deleted along with all other account data.
+
+---
+
+## Notifications
+
+When you grant notification permission, we store a device-specific notification token (called an "FCM token") that lets us deliver notifications to your device.
+
+- **What we collect:** the FCM token, plus your timezone and chosen reminder time, so we can deliver practice reminders at the right local time.
+- **What we use it for:** practice reminders at the time you choose; service messages such as "your child completed an exam", "your homework is due tomorrow", or "your subscription renews tomorrow"; and messages from your teacher or parent when they send a cheer or feedback through the app.
+- **Marketing:** marketing notifications (announcements of new content or promotions) are sent **only** if you explicitly tick the opt-in checkbox on the subscription screen. You can turn marketing off at any time in your account settings.
+- **Quiet hours:** scheduled notifications are sent only between 08:00 and 20:00 in your local time. Urgent billing notifications (such as a failed payment) may be delivered outside these hours.
+- **Sharing:** the token is not shared with any third party for marketing. It is delivered to Apple Push Notification service (APNs) for iOS and Firebase Cloud Messaging (Google) for Android — the standard operating-system infrastructure required to deliver notifications.
+- **How to remove:** disable notifications in your operating system settings at any time — we detect that the token no longer works and stop sending. The token is permanently deleted when your account is deleted.
 
 ---
 
