@@ -1,12 +1,12 @@
-# Privacy Policy — Grammar Fun
+# Privacy Policy — Learn Imla
 
-**Last updated:** April 2026
+**Last updated:** May 2026
 
 ---
 
 ## Who operates this app
 
-Grammar Fun is operated by Miryam Avigad.
+Learn Imla is operated by Avner Avigad.
 
 **Contact:** learnbygame100@gmail.com
 
@@ -75,7 +75,7 @@ We do not sell, rent, or share personal data with third parties, except as requi
 
 ## Children's privacy — COPPA compliance
 
-Grammar Fun is designed for children under parental supervision. The U.S. Children's Online Privacy Protection Act (COPPA) and similar laws require extra care with data about children under 13. We comply as follows:
+Learn Imla is designed for children under parental supervision. The U.S. Children's Online Privacy Protection Act (COPPA) and similar laws require extra care with data about children under 13. We comply as follows:
 
 **Account creation by parents only.** Only a parent (a person 18 or older) can create an account. During sign-up, the parent confirms their age and explicitly consents to their child's data being processed.
 
@@ -97,7 +97,7 @@ We do **not** collect: location, contacts, photos, audio, microphone, behavioura
 - In-app: Settings → "Delete my account and all children's data"
 - By email: learnbygame100@gmail.com — we will delete the data within 30 days.
 
-**Verifiable parental consent.** We do not knowingly collect personal information from a child under 13 without verifiable parental consent. If we discover that we have, we delete the information immediately. If you believe a child has used Grammar Fun without their parent's consent, please contact us.
+**Verifiable parental consent.** We do not knowingly collect personal information from a child under 13 without verifiable parental consent. If we discover that we have, we delete the information immediately. If you believe a child has used Learn Imla without their parent's consent, please contact us.
 
 ---
 
