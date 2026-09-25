@@ -168,7 +168,7 @@ We keep your personal information while your account exists, and delete it withi
 - If a subscription ends and is not renewed, we keep the account for 60 days — so a lapsed payment or a break between terms does not lose your children's progress, and you have time to export it — and then delete it.
 - If a pupil added by a school leaves their last class, their data is kept for 30 days so a parent can download or delete it, and is then deleted.
 - If a parent does not confirm a class invitation, the consent link expires after 14 days, and the details the school entered are deleted about two weeks after that.
-- Analytics data is kept by Google Analytics for up to 14 months and is not linked to your name.
+- Analytics data is kept by Google Analytics for up to 2 months and is not linked to your name.
 
 ---
 
@@ -232,7 +232,7 @@ If you live in California, Colorado, Connecticut, Delaware, Florida, Indiana, Io
 
 We use sensitive personal information only to provide the service, and not to infer characteristics about you.
 
-**Retention:** categories A, B, C, D, F, J, and L are kept while the account exists and up to one month after it is deleted. Category F analytics and category G (approximate location) are kept by Google Analytics for up to 14 months.
+**Retention:** categories A, B, C, D, F, J, and L are kept while the account exists and up to one month after it is deleted. Category F analytics and category G (approximate location) are kept by Google Analytics for up to 2 months.
 
 **Sources:** see [section 1](#1-what-information-do-we-collect). **Use and sharing:** see sections [2](#2-how-do-we-process-your-information) and [4](#4-when-and-with-whom-do-we-share-your-personal-information).
 
