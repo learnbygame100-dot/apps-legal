@@ -168,6 +168,7 @@ We keep your personal information while your account exists, and delete it withi
 - If a subscription ends and is not renewed, we keep the account for 60 days — so a lapsed payment or a break between terms does not lose your children's progress, and you have time to export it — and then delete it.
 - If a pupil added by a school leaves their last class, their data is kept for 30 days so a parent can download or delete it, and is then deleted.
 - If a parent does not confirm a class invitation, the consent link expires after 14 days, and the details the school entered are deleted about two weeks after that.
+- If a teacher or school adds a child but no consent email can reach the parent (for example, no parent email was given), the details they entered are deleted after 3 days.
 - Analytics data is kept by Google Analytics for up to 2 months and is not linked to your name.
 
 ---
@@ -258,7 +259,7 @@ California residents may ask once a year, free of charge, which personal informa
 
 ## 12. Children's privacy and parental consent
 
-Learn Imla is designed for children. Children cannot create an account on their own: a child's profile is created either by a parent from the parent's own account, or by a teacher or school for a class. When a teacher or school adds a child, we email the parent and the child's account is not activated until the parent confirms by clicking the link in that email. If the parent does not confirm, the link expires after 14 days and the details the school entered are deleted about two weeks after that. Learners aged 13 or older may register a Solo account themselves.
+Learn Imla is designed for children. Children cannot create an account on their own: a child's profile is created either by a parent from the parent's own account, or by a teacher or school for a class. When a teacher or school adds a child, we email the parent and the child's account is not activated until the parent confirms by clicking the link in that email. If the parent does not confirm, the link expires after 14 days and the details the school entered are deleted about two weeks after that. If no consent email can reach the parent (for example, no parent email was given), the details are deleted after 3 days. Learners aged 13 or older may register a Solo account themselves.
 
 From children we collect only what the app needs to work: first name, username, date of birth, gender, sign-in details (a PIN or one-time code), and learning activity such as answers, scores, and progress. A child profile has no email address or phone number of its own, and no way to message anyone outside the child's own class. We do not collect a child's location, contacts, photos, or audio. We do not show ads to children, we do not sell or share their data for advertising, and children cannot make purchases.
 
