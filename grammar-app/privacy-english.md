@@ -1,6 +1,6 @@
 # Privacy Policy — Learn Imla
 
-**Last updated:** September 25, 2026
+**Last updated:** November 2, 2026
 
 This Privacy Policy for Avner Avigad (doing business as **Learn Imla**) ("we", "us", or "our") describes how and why we collect, store, use, and share ("process") your personal information when you:
 
@@ -80,6 +80,10 @@ This information is used to keep the service secure and working, to fix problems
 
 If you allow notifications, we store a device notification token (Firebase Cloud Messaging; Apple Push Notification service on iOS), your time zone, and your chosen reminder time. We use them for practice reminders, service messages (for example "your child completed an exam" or "homework is due tomorrow"), and cheers or feedback from a parent or teacher. Marketing notifications (new content) are sent only if you opt in, and you can turn them off in Account Settings → Notifications. Scheduled notifications are sent only between 08:00 and 20:00 your local time; urgent billing notices may arrive outside those hours. Turning notifications off in your device settings stops them; the token is deleted with your account.
 
+### How you found us (adults only)
+
+When a parent, teacher, or school administrator creates an account, the sign-up form asks an optional question: "How did you hear about us?" (one of eight fixed choices, such as a search engine, a friend, or a teacher group). If you arrived at Learn Imla from one of our campaign links, we also keep that link's campaign tags (for example, `utm_source=facebook`) on your device until you create an account. We then save your answer, if you gave one, and those tags with your account, so we know which channels bring new families and teachers. The tags never contain your name or contact details. We never collect this for a child's or a Solo learner's account, we do not share it, and it is deleted with your account. Signing in or out on the device clears any tags still stored there.
+
 ### Information collected from other sources
 
 - **Teachers and schools.** When a teacher or school adds a child to a class, they give us the child's first name and the parent's email address. We then email the parent for consent (see [section 12](#12-childrens-privacy-and-parental-consent)).
@@ -102,6 +106,7 @@ We process your personal information to:
 - respond to questions and support requests
 - protect the service, including fraud and abuse prevention (for example, preventing repeated free trials)
 - understand usage trends so we can improve the app
+- understand which channels bring new families and teachers (the optional "How did you hear about us?" answer and campaign tags — see [How you found us](#how-you-found-us-adults-only))
 - protect someone's vital interests where necessary to prevent harm
 
 We process your information for other purposes only with your prior consent.
@@ -139,7 +144,7 @@ We share personal information only with service providers that run Learn Imla on
 
 We may also share information:
 
-- **Within a class.** Classmates can see each other's first names and avatars in class activities such as the live quiz leaderboard and class quests. Teachers and school administrators see the progress of the children in their classes, and parents see their own children's progress. Nothing is public outside these groups.
+- **Within a class.** Classmates can see each other's first names and avatars in class activities such as the live quiz leaderboard and class quests. Teachers and school administrators see the progress of the children in their classes, and parents see their own children's progress. The families in a class (and a family whose request to join it is waiting) see the name the teacher chose to show, for example "Taught by Ms Cohen". Nothing is public outside these groups.
 - **Business transfers.** If our business is merged, sold, or financed, information may be transferred as part of that transaction.
 - **Legal requirements.** When required by law or to protect rights and safety.
 
@@ -149,7 +154,7 @@ We do not sell personal information, and we do not share it for advertising.
 
 ## 5. Do we use cookies and other tracking technologies?
 
-On our website we use cookies and browser storage that are needed to keep you signed in and to protect the site (Firebase App Check with Google reCAPTCHA), and Google Analytics to understand how the site is used. We do not use advertising or social-media trackers, and we do not allow third parties to show ads on Learn Imla.
+On our website we use cookies and browser storage that are needed to keep you signed in and to protect the site (Firebase App Check with Google reCAPTCHA), browser storage that keeps a campaign link's tags until an adult signs up (see [How you found us](#how-you-found-us-adults-only)), and Google Analytics to understand how the site is used. We do not use advertising or social-media trackers, and we do not allow third parties to show ads on Learn Imla.
 
 You can block or delete cookies in your browser; some features, such as staying signed in, may then stop working. To opt out of Google Analytics on the web, visit [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). For Google's privacy practices, see [policies.google.com/privacy](https://policies.google.com/privacy).
 
