@@ -1,6 +1,6 @@
 # Privacy Policy — Learn Imla
 
-**Last updated:** November 2, 2026
+**Last updated:** November 13, 2026
 
 This Privacy Policy for Avner Avigad (doing business as **Learn Imla**) ("we", "us", or "our") describes how and why we collect, store, use, and share ("process") your personal information when you:
 
@@ -59,7 +59,7 @@ We collect personal information that you provide when you register, when you add
 - a child's date of birth (used to suggest the right level) and gender (used to draw the avatar)
 - school or class name, and class membership
 
-**Sensitive information.** We process student data — learning records such as answers, scores, stars, homework, and progress — to provide the service. See [section 12](#12-childrens-privacy-and-parental-consent).
+**Sensitive information.** We process student data — learning records such as answers, scores, stars, homework, progress, time spent practising and daily practice totals, and the learning goals and plans a parent, teacher, or the learner sets — to provide the service and to show progress against the plan to the parent or teacher. See [section 12](#12-childrens-privacy-and-parental-consent).
 
 **Payment data.** Payments are made on the website only, through Paddle, which acts as Merchant of Record. Paddle collects and stores your card details; we never see or store them. We receive only the subscription status, plan, and billing dates. Children cannot make purchases. Paddle's privacy notice: [paddle.com/legal/privacy](https://www.paddle.com/legal/privacy).
 
@@ -266,7 +266,7 @@ California residents may ask once a year, free of charge, which personal informa
 
 Learn Imla is designed for children. Children cannot create an account on their own: a child's profile is created either by a parent from the parent's own account, or by a teacher or school for a class. When a teacher or school adds a child, we email the parent and the child's account is not activated until the parent confirms by clicking the link in that email. If the parent does not confirm, the link expires after 14 days and the details the school entered are deleted about two weeks after that. If no consent email can reach the parent (for example, no parent email was given), the details are deleted after 3 days. Learners aged 13 or older may register a Solo account themselves.
 
-From children we collect only what the app needs to work: first name, username, date of birth, gender, sign-in details (a PIN or one-time code), and learning activity such as answers, scores, and progress. A child profile has no email address or phone number of its own, and no way to message anyone outside the child's own class. We do not collect a child's location, contacts, photos, or audio. We do not show ads to children, we do not sell or share their data for advertising, and children cannot make purchases.
+From children we collect only what the app needs to work: first name, username, date of birth, gender, sign-in details (a PIN or one-time code), and learning activity such as answers, scores, progress, time spent practising, and daily practice totals (shown to the child's parent, and for class topics to the child's teachers). A child profile has no email address or phone number of its own, and no way to message anyone outside the child's own class. We do not collect a child's location, contacts, photos, or audio. We do not show ads to children, we do not sell or share their data for advertising, and children cannot make purchases.
 
 A parent can at any time review the information we hold about their child, ask us to correct or delete it, or withdraw consent, by emailing learnbygame100@gmail.com or by using "Manage my data" in the app. We delete the child's data within 30 days of the request.
 
