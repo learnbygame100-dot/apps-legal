@@ -70,6 +70,8 @@ We collect personal information that you provide when you register, when you add
 When you use Learn Imla we automatically collect:
 
 - **Log and usage data** — which features and screens you use, dates and times, and error and crash reports (Firebase Crashlytics).
+- **Teacher's last visit** — for a teacher in a school, the date they last opened the app (the date only, recorded at most once a day). Their school administrator sees it.
+- **Email log** — for each email we send (for example a consent request or a billing notice): the type of email, which account it was for, whether it was sent or failed, and when. Never the content of the email. Kept for 90 days.
 - **Device data** — device model, operating system, app version, browser type, IP address, and app and device identifiers.
 - **Approximate location** — the country and city derived from your IP address by Google Analytics. We never request or collect precise GPS location.
 - **Notification token** — if you allow notifications, a device token so we can deliver them (see [Notifications](#notifications)).
@@ -87,7 +89,7 @@ When a parent, teacher, or school administrator creates an account, the sign-up 
 ### Information collected from other sources
 
 - **Teachers and schools.** When a teacher or school adds a child to a class, they give us the child's first name and the parent's email address. We then email the parent for consent (see [section 12](#12-childrens-privacy-and-parental-consent)).
-- **Paddle.** After a payment, Paddle tells us the subscription status, plan, and billing dates.
+- **Paddle.** After a payment, Paddle tells us the subscription status, plan, and billing dates, and we keep a record of each payment: the amount, any discount, the date, and its status. We never receive card or bank details.
 
 We do not obtain information from data brokers, marketing partners, or social media, and we do not use any information for targeted advertising.
 
@@ -144,7 +146,7 @@ We share personal information only with service providers that run Learn Imla on
 
 We may also share information:
 
-- **Within a class.** Classmates can see each other's first names and avatars in class activities such as the live quiz leaderboard and class quests. Teachers and school administrators see the progress of the children in their classes, and parents see their own children's progress. The families in a class (and a family whose request to join it is waiting) see the name the teacher chose to show, for example "Taught by Ms Cohen". Nothing is public outside these groups.
+- **Within a class.** Classmates can see each other's first names and avatars in class activities such as the live quiz leaderboard and class quests. Teachers and school administrators see the progress of the children in their classes, and parents see their own children's progress. A school administrator sees, for each class of the school, every pupil's practice and exam results in that class's topics — practice at home is not shown to the school — and for each teacher: their classes, how many pupils practised this week, the average exam score, the homework given, and the date the teacher last opened the app. These are measures of class activity, not a rating of the teacher. The families in a class (and a family whose request to join it is waiting) see the name the teacher chose to show, for example "Taught by Ms Cohen". Nothing is public outside these groups.
 - **Business transfers.** If our business is merged, sold, or financed, information may be transferred as part of that transaction.
 - **Legal requirements.** When required by law or to protect rights and safety.
 
@@ -175,6 +177,7 @@ We keep your personal information while your account exists, and delete it withi
 - If a parent does not confirm a class invitation, the consent link expires after 14 days, and the details the school entered are deleted about two weeks after that.
 - If a teacher or school adds a child but no consent email can reach the parent (for example, no parent email was given), the details they entered are deleted after 3 days.
 - Analytics data is kept by Google Analytics for up to 2 months and is not linked to your name.
+- The email log is kept for 90 days and then deleted.
 
 ---
 
