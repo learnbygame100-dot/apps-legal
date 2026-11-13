@@ -172,7 +172,7 @@ We operate from Israel. Our database is hosted by Google Cloud in Belgium (EU), 
 
 We keep your personal information while your account exists, and delete it within one month after the account is deleted — unless the law requires us to keep it longer (for example, Paddle keeps invoice records for tax purposes).
 
-- If a subscription ends and is not renewed, we keep the account for 60 days — so a lapsed payment or a break between terms does not lose your children's progress, and you have time to export it — and then delete it.
+- If a subscription ends and is not renewed, we keep the account for 90 days — so a lapsed payment or a break between terms does not lose your children's progress, and you have time to export it — and then delete it.
 - If a pupil added by a school leaves their last class, their data is kept for 30 days so a parent can download or delete it, and is then deleted.
 - If a parent does not confirm a class invitation, the consent link expires after 14 days, and the details the school entered are deleted about two weeks after that.
 - If a teacher or school adds a child but no consent email can reach the parent (for example, no parent email was given), the details they entered are deleted after 3 days.
